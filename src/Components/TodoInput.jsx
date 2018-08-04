@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Aux from '../hoc/Auxiliary';
-import { Form, Input, Button, Alert } from 'reactstrap';
+import { Input, Button, Alert } from 'reactstrap';
 import SimpleStorage from 'react-simple-storage';
 
 export default class TodoInput extends Component {
